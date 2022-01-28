@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.MyOCPCICD.MyOcpCicdApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.369 s - in com.MyOCPCICD.MyOcpCicdApplicationTests
