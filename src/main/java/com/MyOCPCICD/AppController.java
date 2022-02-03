@@ -11,7 +11,7 @@ public class AppController {
 	
 	@GetMapping(path = "/")
 	public String getBasePathResponse() {
-		return "You called Base API !!!";
+		return "You called Base API !!! V2";
 	}
 
 
